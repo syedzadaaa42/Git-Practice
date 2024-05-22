@@ -14,5 +14,4 @@ result= addition(user, user2)
 
 print(f"The addition of {user} and {user2} is : {result}")
 #This is Version 1
-print("This is version 1")
-
+print("This is version 2")
