@@ -1,0 +1,31 @@
+--GIT
+
+--Initialize user name and email: 
+git config --global user.name "syedzadaaa"
+git config --globl user.email "syedzadaaa42@gmail.com"
+
+--Navigate to file
+ls (list)
+cd (change directory)
+cd .. (change to previouse directory)
+
+--after navigating to the folder initialize the git 
+git init
+
+--adding the file to be tracked 
+git add filename.txt (file will be moved to staging area)
+
+--commit the file to local repository
+git commit -m "message" (after this comman the file will be moved to locl repository)
+
+
+--git branch (this command shows the which branch you are on e.g, master)
+
+*to go to previous version of the file simply type the following commands:
+--git log (after this command, copy the log number of the version and type the follwoing command below:)
+-- git checkout log number -- *
+
+
+
+
+
