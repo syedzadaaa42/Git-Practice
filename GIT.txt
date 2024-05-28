@@ -25,3 +25,18 @@ git commit -m "message" (after this comman the file will be moved to locl reposi
 --git log (after this command, copy the log number of the version and type the follwoing command below:)
 -- git checkout log number -- *
 
+
+=== Commands for GIT ===
+========================
+========================
+Git status   : To check for nay changes in the repository
+GIT diff     : To see the current version with the last commited version 
+Git pull     : To fetch the latest files from the remote repository
+Git add      : To add the modified files in the staging area
+Git commit   : To add the changed in git repository
+Git push     : to puch the commited changes to the remote repository
+Git log      : To see the old commits history.  
+========================
+========================
+
+
