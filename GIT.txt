@@ -25,7 +25,3 @@ git commit -m "message" (after this comman the file will be moved to locl reposi
 --git log (after this command, copy the log number of the version and type the follwoing command below:)
 -- git checkout log number -- *
 
-
-
-
-
