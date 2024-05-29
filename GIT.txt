@@ -19,7 +19,10 @@ git add filename.txt (file will be moved to staging area)
 git commit -m "message" (after this comman the file will be moved to locl repository)
 
 
---git branch (this command shows the which branch you are on e.g, master)
+command --git branch (this command shows the which branch you are on e.g, master)
+command --git branch name (this will create a new branch other thn main branch)
+command --git checkout branch name (this will move you from the main branch to the other created branch and vise versa)
+
 
 *to go to previous version of the file simply type the following commands:
 --git log (after this command, copy the log number of the version and type the follwoing command below:)
